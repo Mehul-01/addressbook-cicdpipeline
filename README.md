@@ -6,7 +6,7 @@ this is our new chnage this sdassaasasdasdasaasd
 testassdad
 this is my first upate hi this is my first update
 hello brother
-hey
+hey bros
 this is my final repo adsadad
 this is the update
 this is newipdate
