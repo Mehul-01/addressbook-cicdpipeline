@@ -12,6 +12,7 @@ new commit  pipeline{
             agent any
             steps{
                 git 'https://github.com/devops-trainer/DevOpsClassCodes.git'
+                Echo 'THis is my first project'
             }
         }
         stage('Compile'){
